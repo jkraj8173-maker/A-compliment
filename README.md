@@ -1,71 +1,97 @@
-# 🩷 Compliment Site
+<div align="center">
 
-A soft and heartwarming compliment website built with Next.js and Framer Motion — designed to make someone feel special, appreciated, and genuinely smiled at 💗✨
+<!-- HEADER -->
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=21,22,23,24&height=220&section=header&text=You%20Are%20Beautiful&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=A%20Soft%20Digital%20Compliment%20Experience&descSize=18&descAlignY=60)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=FF9ACB&center=true&vCenter=true&width=650&lines=Elegance+Is+An+Emotion;Beauty+Needs+No+Filter;Some+Feelings+Deserve+Motion;Designed+To+Make+Her+Smile" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Crafted%20with-Softness-ff9acb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Emotion%20Driven-Design-8e9cff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pure-FrontEnd-222?style=for-the-badge" />
+
+</div>
 
 ---
 
-> ⚠️ This is a **free version**, so some features like background music, animations and cuteness meter screen are not included. Premium version includes full features, music, animations & everything with guide & support.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/compliment-site).
+## 🌸 Project Essence
+
+**This project is not a website.**  
+It is a *moment*.
+
+A carefully animated digital experience created to **compliment a girl** — not loudly, not excessively — but with grace, warmth, and intention.
+
+Every animation exists to express:
+- softness over flash
+- elegance over noise
+- feeling over features
+
+It is for creators who believe beauty is best felt, not explained.
+
+---
+
+## ✨ What Makes It Special
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="48" />
+<br><b>Gentle Compliments</b>
+<br><sub>Words that feel personal</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="48" />
+<br><b>Soft Animations</b>
+<br><sub>Calm & intentional motion</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Love%20Letter.png" width="48" />
+<br><b>Emotional Flow</b>
+<br><sub>A story told gently</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror.png" width="48" />
+<br><b>Self-Reflection</b>
+<br><sub>Designed to feel seen</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Visual & Motion Style
+
+- 🌷 Pastel gradients & warm tones  
+- ✨ Slow, breathable transitions  
+- 🌙 Calm glow instead of sharp contrast  
+- 💖 Animations that *pause*, not rush  
+
+Nothing here competes for attention — it *invites* it.
+
 ---
 
 ## 🛠 Tech Stack
 
-- ⚛️ **Next.js** – React Framework for building fast UI
-- 🎨 **Tailwind CSS** – For modern and responsive styling
-- 🎞️ **Framer Motion** – Smooth entrance and fade animations
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
+
+</div>
+
+- **HTML** — semantic structure  
+- **CSS** — motion, glow, softness  
+- **JavaScript** — subtle interactions  
+- **No frameworks. No distractions.**
 
 ---
 
-## 🖥 Local Setup
-
-To run this project locally, follow these steps:
+## 🚀 Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/Anuj579/compliment-site.git
-
-# Navigate into the folder
-cd compliment-site
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
-
----
-
-## 🔗 Social Media
-
-Follow me for more emotional surprise websites and creative dev content:
-
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
----
-
-## ⭐ Support
-
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
-Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
-
----
-
-## ⚠️ License & Usage
-
-### Free Code
-- This free version is strictly for **personal use only**.  
-- You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
-- Using this free code publicly is **prohibited**.
-- Any violation will be considered **copyright infringement**, and I reserve the right to report it.
-
-### Premium Code
-- The premium code can be used publicly **only if proper credit is given**:  
-  `Website idea & code by @anujbuilds`  
-- Without credit or without explicit permission, public use is **not allowed**.
+git clone https://github.com/jkraj8173-maker/your-project-name.git
+cd your-project-name
